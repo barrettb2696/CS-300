@@ -1,2 +1,7 @@
 # CS-300
 Analysis and Design
+
+In Project One, I tackled the task of analyzing the run-time and memory performance of various data structures.  The problem revelved around understanding the efficiency of data structures in terms of time complexity and space complexity, which are crucial factors in designing efficient algorithms.  
+To approach this problem I familiarized myself with the characteristics of different data structures such as arrays, linked lists, trees, and hash tables.  Then, I conducted experiments to measure the time and memory usage of each data structure under different scenarios.  Understanding data strucutres is essential because they serve as the building blocks of algorithms and software systems.  They enable efficient storage, retrieval, and manipulation of data, which are fundamental operations in computer science.  
+
+I encountered roadblocks in understanding the intricacies of memory management and analyzing the complexities of certain data structure operation.  To overcome these challenges, I consulted relevent sources, collaborated with peers, and experimented with different implementations.  By following best practices such as modularization, encapsulation, and meaningful variable naming, I ensured that the codebase remained organized and comprehensible.  Additionally, documenting the code and providing clear comments facilitated easier maintenance and future enhancements.
